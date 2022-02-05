@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Tosin, a software developer who specializes mainly on the backend using `node.js`
+
+I also do frontend stuff using `React.js`
+ 
+ ⚙ I use: `javascript`, `node.js`, `express` `mysql`, `postgresql`, `heroku` 
+
+- 📫 How to reach me: [linkedin] (https://www.linkedin.com/in/tosin-oladeji-4395551ab/)
+
+
 <!--
 **Tosin-webdev/Tosin-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
