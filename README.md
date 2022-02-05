@@ -13,7 +13,7 @@ I also do frontend stuffs using React.js
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosin-webdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![visitors](https://visitor-badge.deta.dev/badge?page_id=page.id&left_color=red&right_color=green)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=tosin-webdev&left_color=red&right_color=green)
 
 <!--
 **Tosin-webdev/Tosin-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
