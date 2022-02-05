@@ -9,6 +9,9 @@ I also do frontend stuffs using React.js
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)  | [email](mailto:oladejit3@gmail.com)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tosin-webdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Tosin-webdev/Tosin-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
