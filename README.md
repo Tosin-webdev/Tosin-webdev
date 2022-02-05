@@ -10,7 +10,11 @@ I also do frontend stuffs using React.js
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tosin-webdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin-webdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tosin-webdev&show_icons=true&theme=tokyonight)
+
 
 
 
