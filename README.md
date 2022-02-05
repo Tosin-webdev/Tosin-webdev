@@ -2,11 +2,11 @@
 
 I'm Tosin, a software developer who specializes mainly on the backend using `node.js`
 
-I also do frontend stuff using `React.js`
+I also do frontend stuffs using `React.js`
  
  ⚙ I use: `javascript`, `node.js`, `express` `mysql`, `postgresql`, `heroku` 
 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)  || [email](oladejit3@gmail.com)
 
 
 <!--
