@@ -15,7 +15,7 @@ I also do frontend stuffs using React.js.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin-webdev&layout=compact&theme=vision-friendly-dark)
 
 latest blog post 
- - [medium](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)
+ - [Introduction to callback function](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)
 
 <!--
 **Tosin-webdev/Tosin-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
