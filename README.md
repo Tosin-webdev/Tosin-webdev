@@ -14,7 +14,7 @@ I also do frontend stuffs using React.js.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin-webdev&layout=compact&theme=vision-friendly-dark)
 
-latest blog post 
+latest blog post : 
  - [Introduction to callback function](https://medium.com/@oladejit3/introduction-to-callback-functions-2f67fc1af483)
 
 <!--
