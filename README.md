@@ -2,7 +2,7 @@
 
 I'm Tosin, a software developer who specializes mainly on the backend using node.js.
 
-I also do frontend stuffs using React.js.
+I also do some frontend stuffs using React.js.
 
 
  - 🌱 I’m currently learning more on react and node.js
