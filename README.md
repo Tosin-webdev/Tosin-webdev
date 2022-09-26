@@ -5,7 +5,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 I also do some frontend stuffs using React.js.
 
 
- - 🌱 I’m currently learning more on react and node.js
+ - 🌱 I’m currently learning more on react and node.js and exploring the internet
  -  ⚙ I use: `javascript`, `node.js`, `express` `mysql`, `postgresql`, `heroku` 
  - 🔭 I’m currently working on open source projects...
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)  | [email](mailto:oladejit3@gmail.com)
