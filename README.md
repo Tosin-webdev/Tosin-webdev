@@ -2,9 +2,6 @@
 
 I'm Tosin, a software developer who specializes mainly on the backend using node.js.
 
-I also do some frontend stuffs using React.js.
-
-
  - 🌱 I’m currently learning more on node.js and exploring the internet
  -  ⚙ I use: `javascript`, `typescript`, `node.js`, `express`, `nestjs`,  `mysql`, `postgresql`, `mongoDB`, `jest`,  `heroku` 
  - 🔭 I’m currently working on open source projects...
