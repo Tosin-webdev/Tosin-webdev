@@ -12,6 +12,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin-webdev&layout=compact&theme=vision-friendly-dark)
 
 latest blog post : 
+ - [speed up performanc in nodejs](https://medium.com/@oladejit3/speed-up-performance-in-nodejs-using-compression-cbb13c4013e1)
  - [Getting started with express middleware](https://medium.com/@oladejit3/getting-started-with-express-middleware-e37a7b46e7a9)
  - [implementing reset password feature using mailgun nodejs](https://medium.com/@oladejit3/implementing-reset-password-feature-using-mailgun-node-js-906d3fcbed61)
  - [Introduction to callback function](https://medium.com/@oladejit3/introduction-to-callback-functions-2f67fc1af483)
