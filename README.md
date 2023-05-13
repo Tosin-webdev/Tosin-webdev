@@ -17,7 +17,6 @@ latest blog post :
  - [implementing reset password feature using mailgun nodejs](https://medium.com/@oladejit3/implementing-reset-password-feature-using-mailgun-node-js-906d3fcbed61)
  - [Introduction to callback function](https://medium.com/@oladejit3/introduction-to-callback-functions-2f67fc1af483)
  
-
 <!--
 **Tosin-webdev/Tosin-webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
