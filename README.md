@@ -13,6 +13,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 
 latest blog post: 
 
+ - [implementing authentication and authorization using jwt in a node js application](https://medium.com/@oladejit3/implementing-authentication-and-authorization-using-jwt-in-a-node-js-application-7e68a49d456d)
  - [A beginners guide to dockerizing a nodejs app](https://medium.com/@oladejit3/a-beginners-guide-to-dockerizing-a-node-js-application-5fd2eeee386b)
  - [speed up performance in nodejs](https://medium.com/@oladejit3/speed-up-performance-in-nodejs-using-compression-cbb13c4013e1)
  - [Getting started with express middleware](https://medium.com/@oladejit3/getting-started-with-express-middleware-e37a7b46e7a9)
