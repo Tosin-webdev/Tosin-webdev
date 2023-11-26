@@ -11,7 +11,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tosin-webdev&layout=compact&theme=vision-friendly-dark)
 
-latest blog post: 
+latest blog posts: 
 
  - [Implementing authentication and authorization using jwt in a node js application](https://medium.com/@oladejit3/implementing-authentication-and-authorization-using-jwt-in-a-node-js-application-7e68a49d456d)
  - [A beginners guide to dockerizing a nodejs app](https://medium.com/@oladejit3/a-beginners-guide-to-dockerizing-a-node-js-application-5fd2eeee386b)
