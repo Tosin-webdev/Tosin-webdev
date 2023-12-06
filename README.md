@@ -14,6 +14,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 latest blog posts: 
 
  - [Implementing authentication and authorization using jwt in a node js application](https://medium.com/@oladejit3/implementing-authentication-and-authorization-using-jwt-in-a-node-js-application-7e68a49d456d)
+ - [build and deploy a qr code generator using javascript](https://blog.stackademic.com/build-and-deploy-a-qr-code-generator-using-javascript-in-simple-steps-6f80b0b3f980) 
  - [A beginners guide to dockerizing a nodejs app](https://medium.com/@oladejit3/a-beginners-guide-to-dockerizing-a-node-js-application-5fd2eeee386b)
  - [speed up performance in nodejs](https://medium.com/@oladejit3/speed-up-performance-in-nodejs-using-compression-cbb13c4013e1)
  - [Getting started with express middleware](https://medium.com/@oladejit3/getting-started-with-express-middleware-e37a7b46e7a9)
