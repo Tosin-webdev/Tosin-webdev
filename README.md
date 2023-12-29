@@ -13,6 +13,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 
 latest blog posts: 
 
+ - [How to build and deploy a url shortener using node.js](https://medium.com/stackademic/how-to-build-and-deploy-a-url-shortener-using-node-js-2dad693d586a)
  - [Implementing authentication and authorization using jwt in a node js application](https://medium.com/@oladejit3/implementing-authentication-and-authorization-using-jwt-in-a-node-js-application-7e68a49d456d)
  - [build and deploy a qr code generator using javascript](https://blog.stackademic.com/build-and-deploy-a-qr-code-generator-using-javascript-in-simple-steps-6f80b0b3f980) 
  - [A beginners guide to dockerizing a nodejs app](https://medium.com/@oladejit3/a-beginners-guide-to-dockerizing-a-node-js-application-5fd2eeee386b)
