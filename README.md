@@ -13,6 +13,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 
 latest blog posts: 
 
+ - [How to install jenkins on AWS ec2 instance](https://medium.com/@oladejit3/how-to-install-jenkins-on-aws-ec2-instance-4ec700f68948)
  - [How to build and deploy a url shortener using node.js](https://medium.com/stackademic/how-to-build-and-deploy-a-url-shortener-using-node-js-2dad693d586a)
  - [Implementing authentication and authorization using jwt in a node js application](https://medium.com/@oladejit3/implementing-authentication-and-authorization-using-jwt-in-a-node-js-application-7e68a49d456d)
  - [build and deploy a qr code generator using javascript](https://blog.stackademic.com/build-and-deploy-a-qr-code-generator-using-javascript-in-simple-steps-6f80b0b3f980) 
