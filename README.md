@@ -13,6 +13,7 @@ I'm Tosin, a software developer who specializes mainly on the backend using node
 
 latest blog posts: 
 
+ - [How to dockerize full-stack mern application](https://medium.com/@oladejit3/how-to-dockerize-full-stack-mern-application-8c297c6e4cbf) 
  - [How to install jenkins on AWS ec2 instance](https://medium.com/@oladejit3/how-to-install-jenkins-on-aws-ec2-instance-4ec700f68948)
  - [How to build and deploy a url shortener using node.js](https://medium.com/stackademic/how-to-build-and-deploy-a-url-shortener-using-node-js-2dad693d586a)
  - [Implementing authentication and authorization using jwt in a node js application](https://medium.com/@oladejit3/implementing-authentication-and-authorization-using-jwt-in-a-node-js-application-7e68a49d456d)
