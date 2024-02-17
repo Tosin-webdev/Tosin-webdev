@@ -3,7 +3,7 @@
 I'm Tosin, a software developer who specializes mainly on the backend using Node.js.
 
  - 🌱 I’m currently learning more on DevOps, Node.js and exploring the internet.
- -  ⚙ I use: `javascript`, `typescript`, `node.js`, `express`, `mysql`, `postgresql`, `mongoDB`, `docker`, `linux`, `jest`,  `heroku`, `AWS`, `digitalocean`
+ -  ⚙ I use: `javascript`, `typescript`, `node.js`, `express`, `mysql`, `postgresql`, `mongoDB`, `docker`, `linux`, `jest`, `heroku`, `AWS`, `digitalocean`
  - 🔭 I’m currently working on open source projects...
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/tosin-oladeji-4395551ab/)  | [email](mailto:oladejit3@gmail.com)
 
