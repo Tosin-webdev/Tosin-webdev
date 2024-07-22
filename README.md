@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tosin, a software developer who specializes mainly on the backend using Node.js.
+I'm Tosin, I am a devops engineer.
 
  - 🌱 I’m currently learning more on DevOps, Node.js and exploring the internet.
  -  ⚙ I use: `javascript`, `typescript`, `node.js`, `express`, `mysql`, `postgresql`, `mongoDB`, `docker`, `linux`, `jest`, `heroku`, `AWS`, `digitalocean`
