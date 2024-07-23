@@ -13,7 +13,7 @@ I'm Tosin, a devops engineer with 2 years of experience.
 
 latest blog posts: 
 
- - [The only markdown cheatsheet you need](https://medium.com/stackademic/the-only-markdown-cheatsheet-you-need-6e5f07cdb431)
+ - [Introduction to terraform]([https://medium.com/stackademic/the-only-markdown-cheatsheet-you-need-6e5f07cdb431](https://medium.com/@oladejit3/introduction-to-terraform-9f728722ceae))
  - [How to dockerize full-stack mern application](https://medium.com/@oladejit3/how-to-dockerize-full-stack-mern-application-8c297c6e4cbf) 
  - [How to install jenkins on AWS ec2 instance](https://medium.com/@oladejit3/how-to-install-jenkins-on-aws-ec2-instance-4ec700f68948)
  - [How to build and deploy a url shortener using node.js](https://medium.com/stackademic/how-to-build-and-deploy-a-url-shortener-using-node-js-2dad693d586a)
