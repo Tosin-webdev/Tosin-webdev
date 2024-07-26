@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tosin, a devops engineer with 2 years of experience.
+I'm Tosin, a devops engineer.
 
  - 🌱 I’m currently learning more on DevOps, Node.js and exploring the internet.
  -  ⚙ I use: `javascript`, `typescript`, `node.js`, `express`, `mysql`, `postgresql`, `mongoDB`, `docker`, `linux`, `jest`, `heroku`, `AWS`, `digitalocean`
